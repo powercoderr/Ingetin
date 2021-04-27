@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Ingetin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="task_titles">
+        <item>Membuat mock up</item>
+        <item>Membuat mind map s.design</item>
+        <item>Membuat halaman view detail</item>
+        <item>Membuat aplikasi ingetin</item>
+    </string-array>
+    <string-array name="task_labels">
+        <item>PPB</item>
+        <item>PPL-TE</item>
+        <item>PPL-PR</item>
+        <item>PPB</item>
+    </string-array>
+    <string-array name="task_deadlines">
+        <item>1 Januari 2019</item>
+        <item>1 Januari 2019</item>
+        <item>1 Januari 2019</item>
+        <item>1 Januari 2019</item>
+    </string-array>
+    <string name="task_notes">
+        <item>Membuat mock up untuk aplikasi ingetin</item>
+        <item>Tugasnya dikerjakan berkelompok, xD</item>
+        <item>Tugas bahasa pemrograman PHP ):</item>
+        <item>Haduh :)</item>
+    </string>
+    <string name="taskTitle">Judul Tugas :</string>
+    <string name="taskLabel">Label Tugas :</string>
+    <string name="taskDeadline">Deadline Tugas :</string>
+    <string name="taskNotes">Catatan :</string>
+    <string name="saveTask">Save</string>
+    <string name="deleteButton">Delete</string>
+    <string name="editButton">Edit</string>
+</resources>
